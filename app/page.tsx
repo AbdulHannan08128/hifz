@@ -2,7 +2,7 @@ import Landing from "./pages/Landing/Landing";
 
 export default function Home() {
   return (
-    <main>
+    <main className="h-screen">
       <Landing/>
     </main>
   );
